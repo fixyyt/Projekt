@@ -391,7 +391,7 @@ void gui::Render() noexcept
 		ImGui::SetCursorPosY(ImGui::GetWindowHeight() - 30);
 		imguipp::center_text_ex("Fixy", 300, 1, false);
 		if (ImGui::IsItemHovered())
-			ImGui::SetTooltip("i hate niggers");
+			ImGui::SetTooltip("i don't hate niggers");
 	}
 	ImGui::NextColumn();
 	{
